@@ -1,0 +1,4 @@
+.streamlit.toml
+MISTRAL_API_KEY = "your_MISTRAL_API_KEY"
+GOOGLE_API_KEY = "your_GOOGLE_API_KEY"
+GOOGLE_CSE_ID = "your_GOOGLE_CSE_ID"
