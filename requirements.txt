@@ -1,0 +1,8 @@
+## 📦 Requirements
+streamlit
+requests
+pandas
+beautifulsoup4
+googlesearch-python
+re
+json
