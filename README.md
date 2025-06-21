@@ -71,3 +71,5 @@ OR set them via environment variables:
 bash
 export GOOGLE_API_KEY=your_google_api_key
 export GOOGLE_CSE_ID=your_custom_search_engine_id
+
+Note : it is a basic prototype of the big revolution.
